@@ -1,2 +1,2 @@
-# AWS-
-new repo Pra1
+# AWS-Pra1
+EC2 Instances Pra
