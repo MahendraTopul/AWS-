@@ -1,5 +1,5 @@
 # AWS-Pra1
-EC2 Instances Pra
+EC2 Instance Hands-on
 
 Hello Everyone,
 
