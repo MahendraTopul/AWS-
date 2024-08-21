@@ -3,7 +3,7 @@ EC2 Instance Hands-on
 
 Hello Everyone,
 
-Welcome! Today, I created my first EC2 Instance on AWS as a hands-on exercise.
+Welcome! Today, I created my first **EC2 Instance** on AWS as hands-on exercise.
 
 1. **Login to AWS Console**: Navigated to the **Services** section and clicked on **Instances** to start creating an instance.
 2. **Launch Instance**: Clicked on **Launch Instance** and filled in the required details:
